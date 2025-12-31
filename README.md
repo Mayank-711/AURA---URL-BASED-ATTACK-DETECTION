@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/Django-REST-092E20?style=for-the-badge&logo=django)
 
-**🏆 Smart India Hackathon (SIH) 2024 - Grand Finale Project**
+**🏆 Smart India Hackathon (SIH) 2025 - Grand Finale Project**
 
 *Next-Gen IPDR & PCAP Forensics Platform*
 
