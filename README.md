@@ -231,7 +231,7 @@ sih-aura/
 
 ## 🏆 Smart India Hackathon 2025
 
-This project was developed for the **Smart India Hackathon (SIH) 2024 Grand Finale**.
+This project was developed for the **Smart India Hackathon (SIH) 2025 Grand Finale**.
 
 ### Team RuntimeTerrors
 Building next-generation cybersecurity solutions for India.
